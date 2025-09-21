@@ -1,0 +1,12 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "langchain-google-genai>=2.1.12",
+    "langchain>=0.3.0",
+    "selenium>=4.35.0",
+    "beautifulsoup4>=4.13.5",
+]
